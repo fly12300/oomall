@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    nacos:
+      config:
+        server-addr: 123.60.152.141:8848
+        file-extension: yaml
+  application:
+    name: freight-service
